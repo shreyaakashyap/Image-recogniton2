@@ -1,0 +1,16 @@
+body {
+    background-image: linear-gradient(60deg,red, orange,green,blue,magenta);
+}
+
+.heading {
+    font-weight: bold;
+    color: mediumorchid;
+}
+
+div {
+    color: floralwhite;
+}
+
+.camera {
+    border-style: dashed;
+}
